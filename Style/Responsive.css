@@ -1,9 +1,5 @@
 @media screen and (max-width:576px)
 {
-    body 
-    {
-        width: auto;
-    }
     nav,
     .team,
     .feature,
@@ -49,10 +45,6 @@
 
 @media screen and (min-width : 576px) and (max-width : 992px)
 {
-    body 
-    {
-        width: auto;
-    }
     header
     {
         padding: 50px;
